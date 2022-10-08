@@ -1,0 +1,83 @@
+C:\Users\Notebook\Desktop\layihe\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+C:\Users\Notebook\Desktop\layihe\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+C:\Users\Notebook\Desktop\layihe\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+C:\Users\Notebook\Desktop\layihe\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+C:\Users\Notebook\Desktop\layihe\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+C:\Users\Notebook\Desktop\layihe\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\Notebook\Desktop\layihe\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.AssemblyReference.cache
+C:\Users\Notebook\Desktop\layihe\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notebook\Desktop\layihe\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+C:\Users\Notebook\Desktop\layihe\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+C:\Users\Notebook\Desktop\layihe\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Desktop\layihe\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+C:\Users\Notebook\Desktop\layihe\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\Notebook\Desktop\layihe\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
+C:\Projects\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.csprojAssemblyReference.cache
+C:\Projects\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+C:\Projects\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+C:\Projects\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+C:\Projects\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+C:\Projects\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+C:\Projects\Bank_Project-main\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+C:\Projects\Bank_Project-main\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+C:\Projects\Bank_Project-main\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+C:\Projects\Bank_Project-main\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+C:\Projects\Bank_Project-main\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+C:\Projects\Bank_Project-main\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+C:\Projects\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
+C:\Users\Reshad\Desktop\Samire_ConsoleApp\Bank_Project-main\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+C:\Users\Reshad\Desktop\Samire_ConsoleApp\Bank_Project-main\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+C:\Users\Reshad\Desktop\Samire_ConsoleApp\Bank_Project-main\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+C:\Users\Reshad\Desktop\Samire_ConsoleApp\Bank_Project-main\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+C:\Users\Reshad\Desktop\Samire_ConsoleApp\Bank_Project-main\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+C:\Users\Reshad\Desktop\Samire_ConsoleApp\Bank_Project-main\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\Reshad\Desktop\Samire_ConsoleApp\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reshad\Desktop\Samire_ConsoleApp\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+C:\Users\Reshad\Desktop\Samire_ConsoleApp\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+C:\Users\Reshad\Desktop\Samire_ConsoleApp\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Reshad\Desktop\Samire_ConsoleApp\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+C:\Users\Reshad\Desktop\Samire_ConsoleApp\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\Reshad\Desktop\Samire_ConsoleApp\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
+C:\Users\Reshad\Desktop\Samire_ConsoleApp\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.AssemblyReference.cache
+C:\Users\Rashad.Gozalov\Desktop\Samire Babayeva\Bank_Project-main\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+C:\Users\Rashad.Gozalov\Desktop\Samire Babayeva\Bank_Project-main\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+C:\Users\Rashad.Gozalov\Desktop\Samire Babayeva\Bank_Project-main\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+C:\Users\Rashad.Gozalov\Desktop\Samire Babayeva\Bank_Project-main\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+C:\Users\Rashad.Gozalov\Desktop\Samire Babayeva\Bank_Project-main\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+C:\Users\Rashad.Gozalov\Desktop\Samire Babayeva\Bank_Project-main\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\Rashad.Gozalov\Desktop\Samire Babayeva\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad.Gozalov\Desktop\Samire Babayeva\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+C:\Users\Rashad.Gozalov\Desktop\Samire Babayeva\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+C:\Users\Rashad.Gozalov\Desktop\Samire Babayeva\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Rashad.Gozalov\Desktop\Samire Babayeva\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+C:\Users\Rashad.Gozalov\Desktop\Samire Babayeva\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\Rashad.Gozalov\Desktop\Samire Babayeva\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
+C:\Users\Reshad\Desktop\Samire ConsoleApp\Bank_Project-main\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+C:\Users\Reshad\Desktop\Samire ConsoleApp\Bank_Project-main\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+C:\Users\Reshad\Desktop\Samire ConsoleApp\Bank_Project-main\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+C:\Users\Reshad\Desktop\Samire ConsoleApp\Bank_Project-main\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+C:\Users\Reshad\Desktop\Samire ConsoleApp\Bank_Project-main\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+C:\Users\Reshad\Desktop\Samire ConsoleApp\Bank_Project-main\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\Reshad\Desktop\Samire ConsoleApp\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reshad\Desktop\Samire ConsoleApp\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+C:\Users\Reshad\Desktop\Samire ConsoleApp\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+C:\Users\Reshad\Desktop\Samire ConsoleApp\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Reshad\Desktop\Samire ConsoleApp\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+C:\Users\Reshad\Desktop\Samire ConsoleApp\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\Reshad\Desktop\Samire ConsoleApp\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
+C:\Users\Reshad\Desktop\Samire ConsoleApp\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.AssemblyReference.cache
+C:\Users\Rashad.Gozalov\Desktop\Samire Babayeva\Bank_Project-main\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.AssemblyReference.cache
+C:\Users\Notebook\Desktop\pr\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.exe
+C:\Users\Notebook\Desktop\pr\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.deps.json
+C:\Users\Notebook\Desktop\pr\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.json
+C:\Users\Notebook\Desktop\pr\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.runtimeconfig.dev.json
+C:\Users\Notebook\Desktop\pr\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.dll
+C:\Users\Notebook\Desktop\pr\Project1\Project1\bin\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\Notebook\Desktop\pr\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.AssemblyReference.cache
+C:\Users\Notebook\Desktop\pr\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notebook\Desktop\pr\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfoInputs.cache
+C:\Users\Notebook\Desktop\pr\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.AssemblyInfo.cs
+C:\Users\Notebook\Desktop\pr\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Desktop\pr\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.dll
+C:\Users\Notebook\Desktop\pr\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.pdb
+C:\Users\Notebook\Desktop\pr\Project1\Project1\obj\Debug\netcoreapp3.1\Project1.genruntimeconfig.cache
